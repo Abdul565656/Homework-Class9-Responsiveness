@@ -9,7 +9,7 @@ const Hero = () => {
         <h3 className='text-2xl font-extralight leading-relaxed'>Where You Can Find Your Dream Website</h3>
 <br />
 <br />
-        <h2>Here's Your Dream Website You Can Find Edit and Deploy!! Happy Searching😁</h2>
+        <h2>Here &lsquo s Your Dream Website You Can Find Edit and Deploy!! Happy Searching😁</h2>
         </div>
     </div>
   )
